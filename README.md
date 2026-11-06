@@ -5,5 +5,10 @@ Una aplicación de escritorio simple y personalizada que lleva un registro de lo
 # Tecnolgías
 - Python
 - Tkinter
-- SQL lite
+- Sqlite
 
+# Características
+- Registrar, editar y eliminar clientes
+- Buscar cliente por identificación
+- Registrar, editar y eliminar terapias físicas para el cliente
+- Ver una lista ordenada por fecha de todas las terapias y poder filtrarla por cliente
