@@ -7,7 +7,6 @@ name = "pypi"
 customtkinter = "*"
 ctkmessagebox = "*"
 ctktable = "*"
-auto-py-to-exe = "*"
 
 [dev-packages]
 
